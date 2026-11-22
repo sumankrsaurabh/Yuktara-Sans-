@@ -1,0 +1,12 @@
+/* Yuktara Sans - derived from Inter (SIL OFL 1.1). Paths are relative to this file. */
+@font-face { font-family: "Yuktara Sans"; font-weight: 300; font-style: normal; font-display: swap; src: url("../web/YuktaraSans-Light.woff") format("woff"); }
+@font-face { font-family: "Yuktara Sans"; font-weight: 400; font-style: normal; font-display: swap; src: url("../web/YuktaraSans-Regular.woff") format("woff"); }
+@font-face { font-family: "Yuktara Sans"; font-weight: 400; font-style: italic; font-display: swap; src: url("../web/YuktaraSans-Italic.woff") format("woff"); }
+@font-face { font-family: "Yuktara Sans"; font-weight: 500; font-style: normal; font-display: swap; src: url("../web/YuktaraSans-Medium.woff") format("woff"); }
+@font-face { font-family: "Yuktara Sans"; font-weight: 600; font-style: normal; font-display: swap; src: url("../web/YuktaraSans-SemiBold.woff") format("woff"); }
+@font-face { font-family: "Yuktara Sans"; font-weight: 700; font-style: normal; font-display: swap; src: url("../web/YuktaraSans-Bold.woff") format("woff"); }
+@font-face { font-family: "Yuktara Sans"; font-weight: 700; font-style: italic; font-display: swap; src: url("../web/YuktaraSans-BoldItalic.woff") format("woff"); }
+@font-face { font-family: "Yuktara Sans Display"; font-weight: 400; font-style: normal; font-display: swap; src: url("../web/YuktaraSansDisplay-Regular.woff") format("woff"); }
+@font-face { font-family: "Yuktara Sans Display"; font-weight: 500; font-style: normal; font-display: swap; src: url("../web/YuktaraSansDisplay-Medium.woff") format("woff"); }
+@font-face { font-family: "Yuktara Sans Display"; font-weight: 600; font-style: normal; font-display: swap; src: url("../web/YuktaraSansDisplay-SemiBold.woff") format("woff"); }
+@font-face { font-family: "Yuktara Sans Display"; font-weight: 700; font-style: normal; font-display: swap; src: url("../web/YuktaraSansDisplay-Bold.woff") format("woff"); }

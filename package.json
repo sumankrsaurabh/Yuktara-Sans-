@@ -1,0 +1,9 @@
+{
+  "name": "yuktara-sans",
+  "version": "2.0.0",
+  "description": "Yuktara Sans and Yuktara Sans Display, the Yuktara Tech brand typeface (derived from Inter).",
+  "license": "OFL-1.1",
+  "author": "Yuktara Tech",
+  "files": ["css", "web", "fonts", "LICENSE-Inter-OFL.txt"],
+  "style": "css/yuktara-sans.css"
+}
